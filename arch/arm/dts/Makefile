@@ -1042,7 +1042,8 @@ dtb-$(CONFIG_TARGET_SAMA7G5EK) += \
 	at91-sama7g5ek.dtb
 
 dtb-$(CONFIG_TARGET_SAMA7G54_CURIOSITY) += \
-	at91-sama7g54_curiosity.dtb
+	at91-sama7g54_curiosity.dtb \
+        at91-sama7g54_som2g_zi.dtb
 
 dtb-$(CONFIG_TARGET_SAMA7D65EB) += \
 	at91-sama7d65eb.dtb
